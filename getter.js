@@ -1,6 +1,6 @@
 var https = require( 'https' );
 var fql = require( './fql' );
-exports.get = function ( accessToken, apiPath, callback ) {
+exports.get =  function ( accessToken, apiPath, callback ) {
     // creating options object for the https request
     var options = {
         // the facebook open graph domain

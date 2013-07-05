@@ -1,4 +1,11 @@
 {
-"access_token":"CAAEuerrqPsIBAN6bKALeoHWv8giwHAYhftTv0PADPEWMO0xKf0ze3yY0iRnqvUGF85TVauQdySpOAqp0sgNccTgFWEsgnvSkue8ZAk0hiyFqDJz4qbfi5pWGJEHfh8ZCGX7FZBnWAe6FdoZBpHtvQ2nuehIAHmEZD",
-"me_id":710796839
+"access_token":"CAAEuerrqPsIBAEhItSIRLc70XZCr8XUbJ61hy8BYkeKLXfJuO7KjkUkcNMjtm7BcxDyVOu9MMJYHZB7QRyrsEZASfrgg5KBEasoojyHySlRoPfZCxzxU5KBftfmv2X7IbrXsEITLWiSDbxavm2iKVNxNSrHUnywZD",
+"me_id":710796839,
+"neo4j":{
+	"username":"",
+	"password":"",
+	"host":"http://37.153.96.215",
+	"port":7474,
+	"col":"mysocialgraph"
+}
 }
